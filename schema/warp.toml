@@ -1,0 +1,22 @@
+# Warp definitions.
+
+# Table in source/tables/ (rom-tools decodes it as {key: row}).
+source = "Warp_Data"
+# Top-level output field that must be present and unique in every row.
+key = "id"
+
+# Output field -> dot-path into the source row. A sub-table is a nested object
+# in the output.
+[fields]
+id = "index"
+type = "warpType"
+name = "warpName"
+
+[fields.destination]
+map_index = "destination.mapIndex"
+start_spawn = "destination.startSpawn"
+
+[fields.cost]
+pay_type = "cost.payType"
+pay_index = "cost.payIndex"
+amount = "cost.amount"

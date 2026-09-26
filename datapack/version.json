@@ -193,6 +193,78 @@
           }
         }
       }
+    },
+    "warp": {
+      "source": "Warp_Data",
+      "rows": 1607,
+      "fields": {
+        "id": {
+          "type": "int32"
+        },
+        "type": {
+          "type": "enum",
+          "values": [
+            "WT_None",
+            "WT_Quest",
+            "WT_World",
+            "WT_Dungeon",
+            "WT_Portal",
+            "WT_Teleport",
+            "WT_WorldTown",
+            "WT_Revenge",
+            "WT_Jail",
+            "WT_DominionWar",
+            "WT_Revival",
+            "WT_GuardHelp",
+            "WT_Slayer",
+            "WT_MissionClear",
+            "WT_DungeonLeave",
+            "WT_ChangeServer",
+            "WT_SiegeWar",
+            "WT_BossDashboard",
+            "Max"
+          ]
+        },
+        "name": {
+          "type": "string"
+        },
+        "destination": {
+          "type": "object",
+          "fields": {
+            "map_index": {
+              "type": "int32"
+            },
+            "start_spawn": {
+              "type": "int32"
+            }
+          }
+        },
+        "cost": {
+          "type": "object",
+          "fields": {
+            "pay_type": {
+              "type": "enum",
+              "values": [
+                "NONE",
+                "PT_ACCOUNT_MONEY",
+                "PT_PLAYER_MONEY",
+                "PT_GUILD_MONEY",
+                "PT_EXP",
+                "PT_STORE_COIN",
+                "PT_REAL_MONEY",
+                "PT_ITEM",
+                "PT_ITEM_GROUP"
+              ]
+            },
+            "pay_index": {
+              "type": "int32"
+            },
+            "amount": {
+              "type": "int32"
+            }
+          }
+        }
+      }
     }
   }
 }
