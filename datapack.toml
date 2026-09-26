@@ -1,0 +1,25 @@
+# Configuration for rom-datatables. Relative paths resolve against this file's
+# directory.
+
+[paths]
+# rom-tools' datatables output (resources/datatables/), copied or symlinked
+# here. Untracked: it is the full client dump, not what the server needs.
+source = "source"
+
+# One <entity>.toml per exported entity: which source table it reads and which
+# of its fields cross into the datapack, under server names.
+schema = "schema"
+
+# What rom-server loads: <entity>.json per entity plus version.json. Committed,
+# and deterministic (sorted rows, no timestamps) so diffs show what changed.
+output = "datapack"
+
+# `rom-datatables explore`: source/ as a SQLite database plus Datasette
+# metadata. Untracked, rebuilt whenever source/ is newer.
+explore = "explore"
+
+[meta]
+# Stamped into version.json so the server can refuse a mismatched datapack.
+client_release = "NewPCwemix"
+# Bump when an entity's output fields change shape.
+schema_version = 1

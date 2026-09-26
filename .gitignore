@@ -1,0 +1,13 @@
+# rom-tools output (resources/datatables/) — copied or linked in, never committed
+/source
+
+# rom-datatables explore: SQLite view of source/, rebuilt on demand
+/explore
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/

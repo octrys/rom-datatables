@@ -1,0 +1,60 @@
+# Map definitions.
+
+# Table in source/tables/ (rom-tools decodes it as {key: row}).
+source = "Map_Data"
+# Top-level output field that must be present and unique in every row.
+key = "id"
+
+# Output field -> dot-path into the source row. A sub-table is a nested object
+# in the output.
+[fields]
+id = "index"
+type = "mapType"
+name = "mapName"
+loading_image = "loadingImage"
+minimap = "minimap"
+is_maze_map = "isMazeMap"
+is_cross_world = "isCrossWorld"
+battle_zone = "battleType"
+territory_index = "territoryIndex"
+floor_name = "floorName"
+map_skill = "mapSkill"
+map_buffs = "mapBuffs"
+random_time = "randomTime"
+dominion_number = "dominionNumber"
+
+[fields.map_size]
+width = "mapSize.width"
+height = "mapSize.height"
+
+[fields.scene]
+name = "scene.name"
+
+[fields.batch]
+name = "batch.name"
+
+[fields.limit]
+user_class = "limit.userClass"
+level_min = "limit.levelMin"
+level_max = "limit.levelMax"
+battle_power = "limit.battlePower"
+alignment = "limit.alignment"
+need_main_quest = "limit.needMainQuest"
+need_episode_quest = "limit.needEpisodeQuest"
+limit_group = "limit.limitGroup"
+
+[fields.recommend]
+level_min = "recommend.levelMin"
+level_max = "recommend.levelMax"
+battle_power = "recommend.battlePower"
+
+[fields.restriction]
+is_not_player_info = "restriction.isNotPlayerInfo"
+is_not_resource = "restriction.isNotResource"
+is_not_pet = "restriction.isNotPet"
+is_not_rank_eff = "restriction.isNotRankEff"
+is_not_teleport = "restriction.isNotTeleport"
+is_not_warp = "restriction.isNotWarp"
+is_not_potion = "restriction.isNotPotion"
+is_not_party = "restriction.isNotParty"
+is_not_chat = "restriction.isNotChat"
