@@ -1,0 +1,198 @@
+{
+  "client_release": "NewPCwemix",
+  "schema_version": 1,
+  "entities": {
+    "map": {
+      "source": "Map_Data",
+      "rows": 677,
+      "fields": {
+        "id": {
+          "type": "int32"
+        },
+        "type": {
+          "type": "enum",
+          "values": [
+            "MT_NONE",
+            "MT_METROPOLIS",
+            "MT_FIELD",
+            "MT_TIME_DUNGEON",
+            "MT_FIELD_DUNGEON",
+            "MT_DAILY_DUNGEON",
+            "MT_SPECIAL_DUNGEON",
+            "MT_GUILD_AZIT",
+            "MT_GUILD_DUNGEON",
+            "MT_GUILD_TIME_DUNGEON",
+            "MT_STRONGHOLD_WAR",
+            "MT_SIEGE_WAR",
+            "MT_TRIAL_TOWER",
+            "MT_PREMIUM_DUNGEON",
+            "MT_COLOSSEUM_DUNGEON",
+            "MT_PARTY_DUNGEON",
+            "CONQUEST_DUNGEON_WEEKDAYS",
+            "CONQUEST_DUNGEON_WEEKENDS",
+            "MT_FIELD_EXCEPTION",
+            "MT_TIME_FIELD",
+            "MT_TUTORIAL"
+          ]
+        },
+        "name": {
+          "type": "string"
+        },
+        "loading_image": {
+          "type": "string"
+        },
+        "minimap": {
+          "type": "string"
+        },
+        "is_maze_map": {
+          "type": "bool"
+        },
+        "is_cross_world": {
+          "type": "bool"
+        },
+        "battle_zone": {
+          "type": "enum",
+          "values": [
+            "BT_NONE",
+            "BT_SAFTY",
+            "BT_PRECAUSION",
+            "BT_DISPUTE",
+            "BT_EXCEPTION",
+            "BT_VILLAGE"
+          ]
+        },
+        "territory_index": {
+          "type": "int32"
+        },
+        "floor_name": {
+          "type": "string"
+        },
+        "map_skill": {
+          "type": "int32"
+        },
+        "map_buffs": {
+          "type": "list",
+          "items": {
+            "type": "int32"
+          }
+        },
+        "random_time": {
+          "type": "int32"
+        },
+        "dominion_number": {
+          "type": "int32"
+        },
+        "map_size": {
+          "type": "object",
+          "fields": {
+            "width": {
+              "type": "int32"
+            },
+            "height": {
+              "type": "int32"
+            }
+          }
+        },
+        "scene": {
+          "type": "object",
+          "fields": {
+            "name": {
+              "type": "string"
+            }
+          }
+        },
+        "batch": {
+          "type": "object",
+          "fields": {
+            "name": {
+              "type": "string"
+            }
+          }
+        },
+        "limit": {
+          "type": "object",
+          "fields": {
+            "user_class": {
+              "type": "int32"
+            },
+            "level_min": {
+              "type": "int32"
+            },
+            "level_max": {
+              "type": "int32"
+            },
+            "battle_power": {
+              "type": "int32"
+            },
+            "alignment": {
+              "type": "enum",
+              "values": [
+                "PA_None",
+                "PA_LAW_ABIDING",
+                "PA_ORDERLY",
+                "PA_NORMAL",
+                "PA_CHAOS",
+                "PA_DECIMATOR"
+              ]
+            },
+            "need_main_quest": {
+              "type": "int32"
+            },
+            "need_episode_quest": {
+              "type": "int32"
+            },
+            "limit_group": {
+              "type": "int32"
+            }
+          }
+        },
+        "recommend": {
+          "type": "object",
+          "fields": {
+            "level_min": {
+              "type": "int32"
+            },
+            "level_max": {
+              "type": "int32"
+            },
+            "battle_power": {
+              "type": "int32"
+            }
+          }
+        },
+        "restriction": {
+          "type": "object",
+          "fields": {
+            "is_not_player_info": {
+              "type": "bool"
+            },
+            "is_not_resource": {
+              "type": "bool"
+            },
+            "is_not_pet": {
+              "type": "bool"
+            },
+            "is_not_rank_eff": {
+              "type": "bool"
+            },
+            "is_not_teleport": {
+              "type": "bool"
+            },
+            "is_not_warp": {
+              "type": "bool"
+            },
+            "is_not_potion": {
+              "type": "bool"
+            },
+            "is_not_party": {
+              "type": "bool"
+            },
+            "is_not_chat": {
+              "type": "bool"
+            }
+          }
+        }
+      }
+    }
+  }
+}
