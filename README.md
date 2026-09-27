@@ -156,8 +156,7 @@ exactly what a new client build or schema edit changed.
 
 The build fails fast and writes nothing further when it hits a missing source
 table, a path that fails the naming check, a missing source path in any row, or
-a duplicate key. Each of these
-means the schema or the rom-tools output is wrong.
+a duplicate key. Each of these means the schema or the rom-tools output is wrong.
 
 ## Development
 

@@ -208,7 +208,8 @@ def test_repo_config_and_schemas_load() -> None:
     config = load_config(repo_dir / "datapack.toml")
     schemas = load_schemas(config.schema_dir)
 
-    assert [schema.name for schema in schemas] == ["map"]
+    schema_files = sorted(config.schema_dir.glob("*.toml"))
+    assert [schema.name for schema in schemas] == [path.stem for path in schema_files]
 
 
 def test_build_datapack_fails_without_source_schema(tmp_path: Path) -> None:
