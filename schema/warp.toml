@@ -11,6 +11,7 @@ key = "id"
 id = "index"
 type = "warpType"
 name = "warpName"
+world_map_icon = "worldMapIcon"
 
 [fields.destination]
 map_index = "destination.mapIndex"

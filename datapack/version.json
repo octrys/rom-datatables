@@ -64,6 +64,9 @@
         "territory_index": {
           "type": "int32"
         },
+        "dungeon_group": {
+          "type": "int32"
+        },
         "floor_name": {
           "type": "string"
         },
@@ -228,6 +231,9 @@
         "name": {
           "type": "string"
         },
+        "world_map_icon": {
+          "type": "string"
+        },
         "destination": {
           "type": "object",
           "fields": {
@@ -261,6 +267,81 @@
             },
             "amount": {
               "type": "int32"
+            }
+          }
+        }
+      }
+    },
+    "world_map": {
+      "source": "WorldMap",
+      "rows": 81,
+      "fields": {
+        "map_index": {
+          "type": "int32"
+        },
+        "territory_index": {
+          "type": "int32"
+        },
+        "dungeon_group": {
+          "type": "int32"
+        },
+        "floor_order": {
+          "type": "int32"
+        },
+        "dominion_number": {
+          "type": "int32"
+        },
+        "batch_objects": {
+          "type": "list",
+          "items": {
+            "type": "object",
+            "fields": {
+              "type": {
+                "type": "enum",
+                "values": [
+                  "OT_NONE",
+                  "OT_ACTOR_PLAYER",
+                  "OT_ACTOR_MONSTER",
+                  "OT_ACTOR_NPC_NORMAL",
+                  "OT_ACTOR_NPC_ACTION",
+                  "OT_DROP_ITEM",
+                  "OT_ACTOR_PET",
+                  "OT_PATH",
+                  "OT_ZONE",
+                  "OT_PORTAL",
+                  "OT_MONSTER_ZONE",
+                  "OT_MONSTER_ZONE_GROUP",
+                  "OT_SPAWN_POSITION",
+                  "OT_EVENT_ZONE",
+                  "OT_OBJECT_AREA",
+                  "OT_OBJECT_INTERACTION",
+                  "OT_OBJECT_DESTROY",
+                  "OT_OBJECT_MINERAL"
+                ]
+              },
+              "batchIndex": {
+                "type": "int32"
+              },
+              "tableIndex": {
+                "type": "int32"
+              },
+              "position": {
+                "type": "object",
+                "fields": {
+                  "x": {
+                    "type": "float32"
+                  },
+                  "y": {
+                    "type": "float32"
+                  },
+                  "z": {
+                    "type": "float32"
+                  }
+                }
+              },
+              "direction": {
+                "type": "float32"
+              }
             }
           }
         }

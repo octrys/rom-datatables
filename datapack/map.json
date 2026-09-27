@@ -9,6 +9,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 1,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -64,6 +65,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 4,
+    "dungeon_group": 2,
     "floor_name": "B3",
     "map_skill": 0,
     "map_buffs": [
@@ -119,6 +121,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 1,
+    "dungeon_group": 3,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -174,6 +177,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 4,
     "floor_name": "Entry",
     "map_skill": 0,
     "map_buffs": [
@@ -229,6 +233,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 1,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -284,6 +289,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 4,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -339,6 +345,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 3,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -394,6 +401,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 3,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -449,6 +457,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 5,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -504,6 +513,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -559,6 +569,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 4,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -614,6 +625,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_VILLAGE",
     "territory_index": 1,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -666,6 +678,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 6,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -721,6 +734,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 1,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -776,6 +790,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 1,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -831,6 +846,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 4,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -886,6 +902,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 3,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -941,6 +958,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -996,6 +1014,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1051,6 +1070,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1106,6 +1126,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 6,
     "floor_name": "B2",
     "map_skill": 0,
     "map_buffs": [
@@ -1161,6 +1182,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1216,6 +1238,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 4,
     "floor_name": "B2",
     "map_skill": 0,
     "map_buffs": [
@@ -1271,6 +1294,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 5,
     "floor_name": "B2",
     "map_skill": 0,
     "map_buffs": [
@@ -1326,6 +1350,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1381,6 +1406,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 4,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1436,6 +1462,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1491,6 +1518,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1546,6 +1574,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1601,6 +1630,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 3,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1656,6 +1686,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 3,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1711,6 +1742,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 1,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1766,6 +1798,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1821,6 +1854,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 4,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1876,6 +1910,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 4,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1931,6 +1966,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -1986,6 +2022,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -2041,6 +2078,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 5,
     "floor_name": "B3",
     "map_skill": 0,
     "map_buffs": [
@@ -2096,6 +2134,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 1,
+    "dungeon_group": 3,
     "floor_name": "B2",
     "map_skill": 0,
     "map_buffs": [
@@ -2151,6 +2190,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 1,
+    "dungeon_group": 3,
     "floor_name": "B3",
     "map_skill": 0,
     "map_buffs": [
@@ -2206,6 +2246,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 4,
+    "dungeon_group": 2,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -2261,6 +2302,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 4,
+    "dungeon_group": 2,
     "floor_name": "B2",
     "map_skill": 0,
     "map_buffs": [
@@ -2316,6 +2358,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 43,
     "floor_name": "Entry",
     "map_skill": 0,
     "map_buffs": [
@@ -2372,6 +2415,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 43,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -2428,6 +2472,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 43,
     "floor_name": "B2",
     "map_skill": 0,
     "map_buffs": [
@@ -2484,6 +2529,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 43,
     "floor_name": "B3",
     "map_skill": 0,
     "map_buffs": [
@@ -2540,6 +2586,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 43,
     "floor_name": "B4",
     "map_skill": 0,
     "map_buffs": [
@@ -2596,6 +2643,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 48,
     "floor_name": "Entry",
     "map_skill": 0,
     "map_buffs": [
@@ -2652,6 +2700,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 43,
     "floor_name": "B5",
     "map_skill": 0,
     "map_buffs": [
@@ -2708,6 +2757,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 50,
     "floor_name": "Entry",
     "map_skill": 0,
     "map_buffs": [
@@ -2764,6 +2814,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 48,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -2820,6 +2871,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -2875,6 +2927,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -2930,6 +2983,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -2985,6 +3039,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -3040,6 +3095,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 48,
     "floor_name": "B2",
     "map_skill": 0,
     "map_buffs": [
@@ -3096,6 +3152,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 50,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -3152,6 +3209,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 2,
+    "dungeon_group": 6,
     "floor_name": "B3",
     "map_skill": 0,
     "map_buffs": [
@@ -3207,6 +3265,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 1,
+    "dungeon_group": 3,
     "floor_name": "B4",
     "map_skill": 0,
     "map_buffs": [
@@ -3262,6 +3321,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 5,
     "floor_name": "B4",
     "map_skill": 0,
     "map_buffs": [
@@ -3317,6 +3377,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 48,
     "floor_name": "B3",
     "map_skill": 0,
     "map_buffs": [
@@ -3373,6 +3434,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 48,
     "floor_name": "B4",
     "map_skill": 0,
     "map_buffs": [
@@ -3429,6 +3491,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 50,
     "floor_name": "B2",
     "map_skill": 0,
     "map_buffs": [
@@ -3485,6 +3548,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 4,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -3540,6 +3604,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_VILLAGE",
     "territory_index": 6,
+    "dungeon_group": 102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -3592,6 +3657,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 103,
     "floor_name": "Z1",
     "map_skill": 0,
     "map_buffs": [
@@ -3647,6 +3713,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -3702,6 +3769,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 105,
     "floor_name": "Z1",
     "map_skill": 0,
     "map_buffs": [
@@ -3757,6 +3825,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -3812,6 +3881,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -3867,6 +3937,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 7,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -3922,6 +3993,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_VILLAGE",
     "territory_index": 7,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -3974,6 +4046,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 7,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4029,6 +4102,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 7,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4084,6 +4158,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 7,
+    "dungeon_group": 0,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -4140,6 +4215,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 7,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4195,6 +4271,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4250,6 +4327,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 5,
+    "dungeon_group": 0,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [
@@ -4305,6 +4383,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 103,
     "floor_name": "Z2",
     "map_skill": 0,
     "map_buffs": [
@@ -4360,6 +4439,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 6,
+    "dungeon_group": 105,
     "floor_name": "Z2",
     "map_skill": 0,
     "map_buffs": [
@@ -4415,6 +4495,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4470,6 +4551,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1101,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4525,6 +4607,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4580,6 +4663,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1103,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4635,6 +4719,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1101,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4690,6 +4775,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4745,6 +4831,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1103,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4800,6 +4887,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1101,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4855,6 +4943,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4910,6 +4999,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1103,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -4965,6 +5055,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1101,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5020,6 +5111,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5075,6 +5167,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1103,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5130,6 +5223,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1101,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5185,6 +5279,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5240,6 +5335,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1103,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5295,6 +5391,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1116,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5350,6 +5447,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1116,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5405,6 +5503,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1116,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5460,6 +5559,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1116,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5515,6 +5615,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1116,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5570,6 +5671,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1121,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -5622,6 +5724,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1121,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -5674,6 +5777,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1121,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -5726,6 +5830,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1121,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -5778,6 +5883,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1121,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -5830,6 +5936,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1101,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5885,6 +5992,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1101,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5940,6 +6048,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -5995,6 +6104,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6050,6 +6160,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1103,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6105,6 +6216,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1103,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6160,6 +6272,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1101,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6215,6 +6328,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6270,6 +6384,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1103,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6325,6 +6440,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1116,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6380,6 +6496,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1201,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6435,6 +6552,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1202,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6490,6 +6608,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1203,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6545,6 +6664,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1201,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6600,6 +6720,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1202,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6655,6 +6776,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1203,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6710,6 +6832,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1201,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6765,6 +6888,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1202,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6820,6 +6944,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1203,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6875,6 +7000,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1201,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6930,6 +7056,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1202,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -6985,6 +7112,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1203,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7040,6 +7168,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1201,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7095,6 +7224,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1202,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7150,6 +7280,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1203,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7205,6 +7336,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1216,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7260,6 +7392,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1216,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7315,6 +7448,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1216,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7370,6 +7504,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1216,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7425,6 +7560,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1216,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7480,6 +7616,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1221,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -7532,6 +7669,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1221,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -7584,6 +7722,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1221,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -7636,6 +7775,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1221,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -7688,6 +7828,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1221,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -7740,6 +7881,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1201,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7795,6 +7937,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1201,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7850,6 +7993,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1202,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7905,6 +8049,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1202,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -7960,6 +8105,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1203,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8015,6 +8161,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1203,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8070,6 +8217,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1201,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8125,6 +8273,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1202,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8180,6 +8329,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1203,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8235,6 +8385,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1216,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8290,6 +8441,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1301,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8345,6 +8497,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1302,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8400,6 +8553,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1303,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8455,6 +8609,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1301,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8510,6 +8665,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1302,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8565,6 +8721,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1303,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8620,6 +8777,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1301,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8675,6 +8833,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1302,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8730,6 +8889,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1303,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8785,6 +8945,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1301,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8840,6 +9001,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1302,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8895,6 +9057,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1303,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -8950,6 +9113,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1301,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9005,6 +9169,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1302,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9060,6 +9225,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1303,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9115,6 +9281,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1316,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9170,6 +9337,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1316,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9225,6 +9393,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1316,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9280,6 +9449,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1316,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9335,6 +9505,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1316,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9390,6 +9561,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1321,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -9442,6 +9614,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1321,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -9494,6 +9667,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1321,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -9546,6 +9720,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1321,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -9598,6 +9773,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1321,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -9650,6 +9826,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1301,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9705,6 +9882,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1301,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9760,6 +9938,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1302,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9815,6 +9994,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1302,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9870,6 +10050,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1303,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9925,6 +10106,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1303,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -9980,6 +10162,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1301,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10035,6 +10218,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1302,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10090,6 +10274,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1303,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10145,6 +10330,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1316,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10200,6 +10386,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1101,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10255,6 +10442,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1102,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10310,6 +10498,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1103,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10365,6 +10554,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 1104,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10420,6 +10610,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10474,6 +10665,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10528,6 +10720,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10582,6 +10775,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10636,6 +10830,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10690,6 +10885,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10744,6 +10940,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10798,6 +10995,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10852,6 +11050,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10906,6 +11105,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -10960,6 +11160,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -11012,6 +11213,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_EXCEPTION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -11064,6 +11266,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 3001,
     "floor_name": "1F",
     "map_skill": 0,
     "map_buffs": [
@@ -11119,6 +11322,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 3001,
     "floor_name": "2F",
     "map_skill": 0,
     "map_buffs": [
@@ -11174,6 +11378,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 3001,
     "floor_name": "3F",
     "map_skill": 0,
     "map_buffs": [
@@ -11229,6 +11434,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 3002,
     "floor_name": "1F",
     "map_skill": 0,
     "map_buffs": [
@@ -11284,6 +11490,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 3002,
     "floor_name": "2F",
     "map_skill": 0,
     "map_buffs": [
@@ -11339,6 +11546,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 3002,
     "floor_name": "3F",
     "map_skill": 0,
     "map_buffs": [
@@ -11394,6 +11602,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11448,6 +11657,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11502,6 +11712,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11556,6 +11767,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11610,6 +11822,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11664,6 +11877,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11718,6 +11932,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11772,6 +11987,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11826,6 +12042,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11880,6 +12097,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11934,6 +12152,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -11988,6 +12207,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12042,6 +12262,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12096,6 +12317,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12150,6 +12372,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12204,6 +12427,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12258,6 +12482,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12312,6 +12537,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12366,6 +12592,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12420,6 +12647,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12474,6 +12702,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12528,6 +12757,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12582,6 +12812,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12636,6 +12867,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12690,6 +12922,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12744,6 +12977,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12798,6 +13032,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12852,6 +13087,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12906,6 +13142,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -12960,6 +13197,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13014,6 +13252,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13068,6 +13307,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13122,6 +13362,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13176,6 +13417,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13230,6 +13472,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13284,6 +13527,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13338,6 +13582,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13392,6 +13637,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13446,6 +13692,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13500,6 +13747,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13554,6 +13802,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13608,6 +13857,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13662,6 +13912,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13716,6 +13967,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13770,6 +14022,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13824,6 +14077,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13878,6 +14132,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13932,6 +14187,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -13986,6 +14242,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14040,6 +14297,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14094,6 +14352,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14148,6 +14407,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14202,6 +14462,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14256,6 +14517,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14310,6 +14572,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14364,6 +14627,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14418,6 +14682,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14472,6 +14737,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14526,6 +14792,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14580,6 +14847,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14634,6 +14902,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14688,6 +14957,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14742,6 +15012,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14796,6 +15067,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14850,6 +15122,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14904,6 +15177,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -14958,6 +15232,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15012,6 +15287,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15066,6 +15342,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15120,6 +15397,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15174,6 +15452,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15228,6 +15507,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15282,6 +15562,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15336,6 +15617,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15390,6 +15672,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15444,6 +15727,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15498,6 +15782,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15552,6 +15837,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15606,6 +15892,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15660,6 +15947,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15714,6 +16002,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15768,6 +16057,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15822,6 +16112,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15876,6 +16167,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15930,6 +16222,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -15984,6 +16277,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16038,6 +16332,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16092,6 +16387,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16146,6 +16442,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16200,6 +16497,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16254,6 +16552,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16308,6 +16607,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16362,6 +16662,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16416,6 +16717,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16470,6 +16772,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16524,6 +16827,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16578,6 +16882,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16632,6 +16937,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16686,6 +16992,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16740,6 +17047,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16794,6 +17102,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16848,6 +17157,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16902,6 +17212,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -16956,6 +17267,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17010,6 +17322,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17064,6 +17377,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17118,6 +17432,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17172,6 +17487,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17226,6 +17542,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17280,6 +17597,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17334,6 +17652,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17388,6 +17707,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17442,6 +17762,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17496,6 +17817,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17550,6 +17872,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17604,6 +17927,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17658,6 +17982,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17712,6 +18037,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17766,6 +18092,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17820,6 +18147,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17874,6 +18202,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17928,6 +18257,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -17982,6 +18312,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18036,6 +18367,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18090,6 +18422,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18144,6 +18477,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18198,6 +18532,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18252,6 +18587,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18306,6 +18642,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18360,6 +18697,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18414,6 +18752,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18468,6 +18807,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18522,6 +18862,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18576,6 +18917,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18630,6 +18972,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18684,6 +19027,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18738,6 +19082,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18792,6 +19137,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18846,6 +19192,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18900,6 +19247,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -18954,6 +19302,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19008,6 +19357,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19062,6 +19412,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19116,6 +19467,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19170,6 +19522,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19224,6 +19577,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19278,6 +19632,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19332,6 +19687,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19386,6 +19742,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19440,6 +19797,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19494,6 +19852,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19548,6 +19907,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19602,6 +19962,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19656,6 +20017,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19710,6 +20072,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19764,6 +20127,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19818,6 +20182,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19872,6 +20237,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19926,6 +20292,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -19980,6 +20347,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20034,6 +20402,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20088,6 +20457,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20142,6 +20512,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20196,6 +20567,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20250,6 +20622,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20304,6 +20677,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20358,6 +20732,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20412,6 +20787,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20466,6 +20842,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20520,6 +20897,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20574,6 +20952,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20628,6 +21007,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20682,6 +21062,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20736,6 +21117,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20790,6 +21172,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20844,6 +21227,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20898,6 +21282,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -20952,6 +21337,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21006,6 +21392,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21060,6 +21447,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21114,6 +21502,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21168,6 +21557,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21222,6 +21612,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21276,6 +21667,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21330,6 +21722,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21384,6 +21777,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21438,6 +21832,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21492,6 +21887,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21546,6 +21942,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21600,6 +21997,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21654,6 +22052,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21708,6 +22107,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21762,6 +22162,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21816,6 +22217,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21870,6 +22272,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21924,6 +22327,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -21978,6 +22382,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22032,6 +22437,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22086,6 +22492,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22140,6 +22547,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22194,6 +22602,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22248,6 +22657,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22302,6 +22712,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22356,6 +22767,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22410,6 +22822,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22464,6 +22877,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22518,6 +22932,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22572,6 +22987,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22626,6 +23042,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22680,6 +23097,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22734,6 +23152,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22788,6 +23207,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22842,6 +23262,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22896,6 +23317,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -22950,6 +23372,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23004,6 +23427,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23058,6 +23482,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23112,6 +23537,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23166,6 +23592,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23220,6 +23647,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23274,6 +23702,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23328,6 +23757,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23382,6 +23812,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23436,6 +23867,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23490,6 +23922,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23544,6 +23977,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23598,6 +24032,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23652,6 +24087,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23706,6 +24142,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23760,6 +24197,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23814,6 +24252,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23868,6 +24307,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23922,6 +24362,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -23976,6 +24417,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24030,6 +24472,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24084,6 +24527,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24138,6 +24582,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24192,6 +24637,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24246,6 +24692,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24300,6 +24747,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24354,6 +24802,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24408,6 +24857,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24462,6 +24912,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24516,6 +24967,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24570,6 +25022,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24624,6 +25077,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24678,6 +25132,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24732,6 +25187,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24786,6 +25242,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24840,6 +25297,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24894,6 +25352,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -24948,6 +25407,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25002,6 +25462,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25056,6 +25517,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25110,6 +25572,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25164,6 +25627,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25218,6 +25682,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25272,6 +25737,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25326,6 +25792,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25380,6 +25847,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25434,6 +25902,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25488,6 +25957,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25542,6 +26012,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25596,6 +26067,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25650,6 +26122,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25704,6 +26177,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25758,6 +26232,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25812,6 +26287,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25866,6 +26342,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25920,6 +26397,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -25974,6 +26452,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26028,6 +26507,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26082,6 +26562,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26136,6 +26617,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26190,6 +26672,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26244,6 +26727,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26298,6 +26782,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26352,6 +26837,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26406,6 +26892,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26460,6 +26947,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26514,6 +27002,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26568,6 +27057,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26622,6 +27112,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26676,6 +27167,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26730,6 +27222,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26784,6 +27277,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26838,6 +27332,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26892,6 +27387,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -26946,6 +27442,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27000,6 +27497,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27054,6 +27552,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27108,6 +27607,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27162,6 +27662,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27216,6 +27717,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27270,6 +27772,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27324,6 +27827,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27378,6 +27882,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27432,6 +27937,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27486,6 +27992,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27540,6 +28047,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27594,6 +28102,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27648,6 +28157,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27702,6 +28212,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27756,6 +28267,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27810,6 +28322,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27864,6 +28377,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27918,6 +28432,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -27972,6 +28487,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28026,6 +28542,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28080,6 +28597,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28134,6 +28652,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28188,6 +28707,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28242,6 +28762,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28296,6 +28817,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28350,6 +28872,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28404,6 +28927,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28458,6 +28982,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28512,6 +29037,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28566,6 +29092,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28620,6 +29147,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28674,6 +29202,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28728,6 +29257,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28782,6 +29312,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28836,6 +29367,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28890,6 +29422,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28944,6 +29477,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -28998,6 +29532,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29052,6 +29587,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29106,6 +29642,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29160,6 +29697,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29214,6 +29752,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29268,6 +29807,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29322,6 +29862,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29376,6 +29917,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29430,6 +29972,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29484,6 +30027,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29538,6 +30082,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29592,6 +30137,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29646,6 +30192,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29700,6 +30247,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29754,6 +30302,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29808,6 +30357,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29862,6 +30412,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29916,6 +30467,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -29970,6 +30522,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30024,6 +30577,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30078,6 +30632,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30132,6 +30687,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30186,6 +30742,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30240,6 +30797,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30294,6 +30852,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30348,6 +30907,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30402,6 +30962,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30456,6 +31017,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30510,6 +31072,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30564,6 +31127,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30618,6 +31182,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30672,6 +31237,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30726,6 +31292,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30780,6 +31347,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30834,6 +31402,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30888,6 +31457,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30942,6 +31512,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -30996,6 +31567,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31050,6 +31622,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31104,6 +31677,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31158,6 +31732,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31212,6 +31787,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31266,6 +31842,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31320,6 +31897,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31374,6 +31952,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31428,6 +32007,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31482,6 +32062,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31536,6 +32117,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31590,6 +32172,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31644,6 +32227,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31698,6 +32282,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31752,6 +32337,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31806,6 +32392,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31860,6 +32447,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31914,6 +32502,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -31968,6 +32557,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32022,6 +32612,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32076,6 +32667,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32130,6 +32722,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32184,6 +32777,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32238,6 +32832,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32292,6 +32887,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32346,6 +32942,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32400,6 +32997,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32454,6 +33052,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32508,6 +33107,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32562,6 +33162,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32616,6 +33217,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32670,6 +33272,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32724,6 +33327,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32778,6 +33382,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32832,6 +33437,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32886,6 +33492,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32940,6 +33547,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -32994,6 +33602,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33049,6 +33658,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33104,6 +33714,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33159,6 +33770,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33214,6 +33826,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33269,6 +33882,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33324,6 +33938,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33379,6 +33994,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33434,6 +34050,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33489,6 +34106,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -33544,6 +34162,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -33596,6 +34215,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -33648,6 +34268,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -33700,6 +34321,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -33752,6 +34374,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -33804,6 +34427,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -33856,6 +34480,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -33908,6 +34533,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -33960,6 +34586,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -34012,6 +34639,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -34064,6 +34692,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -34116,6 +34745,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -34168,6 +34798,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -34223,6 +34854,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -34278,6 +34910,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -34333,6 +34966,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -34388,6 +35022,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -34443,6 +35078,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -34498,6 +35134,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -34553,6 +35190,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -34608,6 +35246,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -34660,6 +35299,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -34712,6 +35352,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 90000001,
     "map_buffs": [],
@@ -34764,6 +35405,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 90000002,
     "map_buffs": [],
@@ -34816,6 +35458,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 90000003,
     "map_buffs": [],
@@ -34868,6 +35511,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -34920,6 +35564,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -34972,6 +35617,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35024,6 +35670,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35076,6 +35723,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -35132,6 +35780,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -35188,6 +35837,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -35244,6 +35894,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -35300,6 +35951,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -35356,6 +36008,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -35412,6 +36065,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -35468,6 +36122,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -35524,6 +36179,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35576,6 +36232,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35628,6 +36285,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35680,6 +36338,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35732,6 +36391,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35784,6 +36444,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35836,6 +36497,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35888,6 +36550,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35940,6 +36603,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -35992,6 +36656,7 @@
     "is_cross_world": true,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -36044,6 +36709,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_VILLAGE",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -36098,6 +36764,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_VILLAGE",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [
@@ -36152,6 +36819,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "B1",
     "map_skill": 0,
     "map_buffs": [],
@@ -36204,6 +36872,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -36256,6 +36925,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -36308,6 +36978,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -36360,6 +37031,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -36412,6 +37084,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -36464,6 +37137,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -36516,6 +37190,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_SAFTY",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -36568,6 +37243,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],
@@ -36620,6 +37296,7 @@
     "is_cross_world": false,
     "battle_zone": "BT_PRECAUSION",
     "territory_index": 0,
+    "dungeon_group": 0,
     "floor_name": "",
     "map_skill": 0,
     "map_buffs": [],

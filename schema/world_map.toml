@@ -1,0 +1,16 @@
+# World map definitions.
+
+# Table in source/tables/ (rom-tools decodes it as {key: row}).
+source = "WorldMap"
+# Top-level output field that must be present and unique in every row.
+key = "map_index"
+
+# Output field -> dot-path into the source row. A path that points at an object
+# or a list of objects copies it whole, inner field names included.
+[fields]
+map_index = "mapDataStrongholdWarIndex"
+territory_index = "territoryIndex"
+dungeon_group = "dungeonGroup"
+floor_order = "floorOrder"
+dominion_number = "dominionNumber"
+batch_objects = "batchObjects"
